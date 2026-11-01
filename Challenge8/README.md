@@ -1,4 +1,4 @@
-GRIDWATCH – Risk Detection System is a C program developed as part of the CODE2THINK Challenge 08. It uses a 2D array to analyse risk scores in a grid and identify important patterns.
+It uses a 2D array to analyse risk scores in a grid and identify important patterns.
 
 Key Features:
 - Calculates row and column totals and identifies the highest ones.
